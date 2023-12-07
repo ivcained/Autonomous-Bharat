@@ -1,4 +1,4 @@
-# Autonomous India Hackathon
+# Autonomous Bharat Hackathon
 GG Hackers!
 
 Join us for a groundbreaking two-day hackathon, set to take place on December 11th - 12th at the Dojo Hacker House. 
